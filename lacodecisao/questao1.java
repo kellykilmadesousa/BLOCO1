@@ -1,4 +1,4 @@
-package lacodecisao;
+package BLOCO1JAVA.lacodecisao;
 
 import java.util.Scanner;
 

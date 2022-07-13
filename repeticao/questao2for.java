@@ -1,4 +1,4 @@
-package repeticao;
+package BLOCO1JAVA.repeticao;
 
 import java.util.Scanner;
 

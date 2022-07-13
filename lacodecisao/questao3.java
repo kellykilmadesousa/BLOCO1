@@ -1,5 +1,5 @@
 //Faça um programa que receba a idade de uma pessoa e mostre na saída em qual categoria ela se encontra:
-package lacodecisao; 
+package BLOCO1JAVA.lacodecisao; 
 
 import java.util.Scanner;
 
