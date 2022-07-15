@@ -1,4 +1,4 @@
-package BLOCO1JAVA.ATVPOO;
+package BLOCO1JAVA.ATIVIDADEPOO;
 
 public class Aviao {
 	private String modelo;

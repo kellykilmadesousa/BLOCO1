@@ -1,4 +1,5 @@
-package BLOCO1JAVA.ATVPOO;
+package BLOCO1JAVA.ATIVIDADEPOO;
+
 public class Aviaoteste {
 
 	public static void main(String[] args) {
