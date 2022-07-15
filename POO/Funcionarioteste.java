@@ -1,4 +1,4 @@
-package POO;
+package BLOCO1JAVA.POO;
 
 public class Funcionarioteste {
 		public static void main(String args[])

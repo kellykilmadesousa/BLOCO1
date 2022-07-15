@@ -1,4 +1,4 @@
-package POO;
+package BLOCO1JAVA.POO;
 
 public class Funcionario {
 	private String primeiroNome;
