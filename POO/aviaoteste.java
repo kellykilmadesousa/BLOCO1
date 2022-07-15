@@ -1,4 +1,4 @@
-package BLOCO1JAVA.POO1;
+ackage BLOCO1JAVA.POO;
 
 public class aviaoteste {
 
