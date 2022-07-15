@@ -1,5 +1,4 @@
 package BLOCO1JAVA.ATVPOO;
-
 public class Aviaoteste {
 
 	public static void main(String[] args) {
