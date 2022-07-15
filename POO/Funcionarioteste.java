@@ -11,6 +11,5 @@ public class Funcionarioteste {
 			System.out.println(pessoa1.getPrimeiroNome());
 			System.out.println(pessoa1.getUltimoNome());
 			System.out.println(pessoa1.getNumeroDocumento());
-
 		}
 }

@@ -11,7 +11,6 @@ public class Aviao {
 		this.companhia=companhia;
 		this.ano = ano;	
 	}
-
 	public String getModelo() {
 		return modelo;
 	}

@@ -13,8 +13,6 @@ public class Aviaoteste {
 			System.out.println(av1.getModelo());
 			System.out.println(av1.getCompanhia());
 			System.out.println(av1.getAno());
-
 		}
 	}
-
 }

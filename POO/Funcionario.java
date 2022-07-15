@@ -35,5 +35,4 @@ public class Funcionario {
 	public void setNumeroDocumento(String numeroDocumento) {
 		this.numeroDocumento = numeroDocumento;
 	}
-
 }
