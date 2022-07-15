@@ -1,11 +1,11 @@
-package BLOCO1JAVA.ATIVIDADEPOO;
+package BLOCO1JAVA.POO1;
 
-public class Funcionario {
+public class funcionario {
 	private String primeiroNome;
 	private String ultimoNome;
 	private String numeroDocumento;
 	
-	public Funcionario (String primeiro,String ultimo, String numeroDocumento)
+	public funcionario (String primeiro,String ultimo, String numeroDocumento)
 	{
 		this.primeiroNome=primeiro;
 		this.ultimoNome=ultimo;

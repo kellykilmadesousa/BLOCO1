@@ -1,9 +1,11 @@
-package BLOCO1JAVA.ATIVIDADEPOO;
+package BLOCO1JAVA.POO1;
 
-public class Funcionarioteste {
-		public static void main(String args[])
+public class funcionarioteste {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		{
-			Funcionario pessoa1 = new Funcionario();
+			funcionario pessoa1 = new funcionario();
 			pessoa1.setPrimeiroNome("fulaninho");
 			pessoa1.setUltimoNome("de sousa");
 			pessoa1.setNumeroDocumento(null);
@@ -13,5 +15,6 @@ public class Funcionarioteste {
 			System.out.println(pessoa1.getNumeroDocumento());
 			
 		}
-		
+	}
+
 }

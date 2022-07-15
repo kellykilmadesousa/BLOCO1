@@ -1,11 +1,11 @@
-package BLOCO1JAVA.ATIVIDADEPOO;
+package BLOCO1JAVA.POO1;
 
-public class Aviao {
+public class aviao {
 	private String modelo;
 	private String companhia;
 	private String ano;
 	
-	public Aviao (String modelo,String companhia, String ano)
+	public aviao (String modelo,String companhia, String ano)
 	{
 		this.modelo=modelo;
 		this.companhia=companhia;
